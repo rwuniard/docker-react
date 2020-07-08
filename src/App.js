@@ -11,7 +11,7 @@ function App() {
                     Edit <code>src/App.js</code> and save to reload.
                 </p>
                 <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-                    Wow!! THis is exciting! Learn React
+                    I am in a feature branch. Learn React
                 </a>
             </header>
         </div>
